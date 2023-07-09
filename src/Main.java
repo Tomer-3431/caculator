@@ -1,3 +1,7 @@
+// notes: 
+// I use Double instead of Integer
+// and added % to the operations
+
 public class Main {
     public static void main(String[] args) {
         // input operation
